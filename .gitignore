@@ -1,3 +1,4 @@
 .qodo
 .env
 .txt
+__pycache__
